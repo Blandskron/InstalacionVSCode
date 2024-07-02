@@ -1,0 +1,2 @@
+# InstalacionVSCode
+Proyecto educativo
